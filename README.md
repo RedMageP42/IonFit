@@ -81,7 +81,7 @@ DETAILED DESCRIPTION
 
    Dummy configuration file:
 
-******************************************************************************************************************
+
 #######################################################################
 #                                                                     #
 #          This is the input configuration file for IonFit            #
@@ -219,7 +219,7 @@ density_unit_option =
 #                                 END                                 #
 #                                                                     #
 #######################################################################
-******************************************************************************************************************
+
 
 4. USAGE:
 
@@ -258,4 +258,4 @@ Gratitude to Dr. Alessandro Innocenti, whose work has been pivotal in the develo
 A special thanks goes to Dr. Giovanni Battista Appetecchi, Dr. Matteo Bonomo, Dr. Guinevere Giffin, Dr. Carsten Korte, Dr. Xu Liu, and Prof. Stefano Passerini for the fundamental scientific feedback.
 
 ---
-Contact: alessandro DOT mariani AT elettra DOT eu
+Contact: alessandro1 DOT mariani AT polimi DOT it
